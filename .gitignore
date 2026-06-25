@@ -1,0 +1,17 @@
+# Java/Gradle
+backend/build/
+backend/.gradle/
+*.class
+# Node
+frontend/node_modules/
+frontend/dist/
+# Env/secrets
+.env
+*.lic
+# IDE/OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+# Packaging artifacts
+packaging/*.tar
